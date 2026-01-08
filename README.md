@@ -1,4 +1,4 @@
-# healthcaresystems
+# Impact of Remote Work on Mental Health settings
 Exploratory data visualization project analyzing how remote work impacts mental health, stress, and productivity across industries and global regions using a 5,000-record workforce dataset.
 Impact of Remote Work on Mental Health
 📌 Project Overview
