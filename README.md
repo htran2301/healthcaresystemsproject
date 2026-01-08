@@ -5,7 +5,7 @@ Impact of Remote Work on Mental Health
 
 This project explores how remote, hybrid, and onsite work arrangements impact employee mental health, stress, work–life balance, and productivity across industries and global regions. Using exploratory data analysis (EDA) and data visualization, the project uncovers patterns in burnout, anxiety, depression, and productivity outcomes based on workforce characteristics.
 
-Dataset: Kaggle – Impact of Remote Work on Mental Health (5,000 records)
+### Dataset: Kaggle – Impact of Remote Work on Mental Health (5,000 records)
 
 🎯 Objectives
 
