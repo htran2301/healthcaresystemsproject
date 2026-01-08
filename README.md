@@ -7,7 +7,7 @@ This project explores how remote, hybrid, and onsite work arrangements impact em
 
 ### Dataset: Kaggle – Impact of Remote Work on Mental Health (5,000 records)
 
-🎯 ##Objectives
+## 🎯 Objectives
 
 Understand how different work arrangements relate to mental health conditions
 
@@ -15,7 +15,7 @@ Identify trends in stress and productivity across job roles and regions
 
 Use visual analytics to communicate workforce insights clearly and effectively
 
-🔄 ##Project Workflow
+## 🔄 Project Workflow
 1. Data Collection
 
 Sourced a global workforce dataset containing:
@@ -94,6 +94,6 @@ seaborn
 
 Jupyter Notebook
 
-📈 ##Outcome
+## 📈 Result
 
 This project demonstrates how EDA and visual analytics can reveal nuanced workforce patterns and support evidence-based workplace decisions related to employee well-being and productivity.
